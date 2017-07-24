@@ -1,0 +1,52 @@
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Bot Application.dll.config
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Bot Application.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Bot Application.pdb
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Autofac.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Chronic.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Bot.Builder.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Bot.Connector.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.ProjectOxford.Vision.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Newtonsoft.Json.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Net.Http.Formatting.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Web.Http.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Web.Http.WebHost.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Autofac.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Bot.Builder.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Bot.Connector.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Newtonsoft.Json.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Net.Http.Formatting.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Web.Http.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Web.Http.WebHost.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\obj\Debug\Bot Application.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\obj\Debug\Bot Application.pdb
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\HtmlAgilityPack.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.Cognitive.LUIS.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.ProjectOxford.Common.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\Microsoft.ProjectOxford.Emotion.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Net.Http.Extensions.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Net.Http.Primitives.dll
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\HtmlAgilityPack.pdb
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\HtmlAgilityPack.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Net.Http.Extensions.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\bin\System.Net.Http.Primitives.xml
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\obj\Debug\Bot_ChenYi.csproj.App.config
+D:\Users\User\Documents\Visual Studio 2017\Projects\Bot_ChenYi\Bot_ChenYi\obj\Debug\Bot_ChenYi.csprojResolveAssemblyReference.cache
